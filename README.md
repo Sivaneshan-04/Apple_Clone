@@ -4,7 +4,7 @@ This is Apple Iphone 15 Pro Website build with ReactJs using Three.Js and GSAP f
 # Steps to run the project
 1. Clone this repository to your local device
 
-2. Run cd APPLE_WEBSITE_CLONE
+2. Run cd Aple_Website_Clone
 
 3. Run npm install to install necessary dependancies
 
